@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 # For check in
 ./sesame.py --action in
 # For checkout
-./sesame.py --action in 
+./sesame.py --action out 
 ```
 
 You should set up a cronjob to forget about it
